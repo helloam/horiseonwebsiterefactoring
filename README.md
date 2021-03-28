@@ -6,4 +6,5 @@ Except for a part in the html where I removed the header from a div class - most
 
 Link to repository: https://github.com/helloam/horiseonwebsiterefactoring
 Link to Horiseon webpage: https://helloam.github.io/horiseonwebsiterefactoring/
+Screenshot: horiseonwebsiterefactoring/horiseonwebsitescreenshot.png
 
